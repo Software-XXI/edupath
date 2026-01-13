@@ -1,0 +1,17 @@
+# Dependencias
+node_modules/
+dist/
+build/
+.env
+
+# Python
+IA/venv/
+IA/__pycache__/
+IA/*.pdf
+*.pyc
+
+# IDEs
+.vscode/
+.qodo/
+.idea/
+.DS_Store
